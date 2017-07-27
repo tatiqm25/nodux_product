@@ -5,6 +5,7 @@ requirements.txt
 setup.py
 nodux_product/__init__.py
 nodux_product/hooks.py
+nodux_product/item_custom.py
 nodux_product/modules.txt
 nodux_product/patches.txt
 nodux_product.egg-info/PKG-INFO
@@ -16,7 +17,10 @@ nodux_product.egg-info/top_level.txt
 nodux_product/config/__init__.py
 nodux_product/config/desktop.py
 nodux_product/config/docs.py
+nodux_product/nodux_product/__init__.py
 nodux_product/product/__init__.py
+nodux_product/product/item.js
+nodux_product/product/item.py
 nodux_product/templates/__init__.py
 nodux_product/templates/generators/__init__.py
 nodux_product/templates/pages/__init__.py
