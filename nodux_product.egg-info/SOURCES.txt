@@ -18,6 +18,7 @@ nodux_product/config/__init__.py
 nodux_product/config/desktop.py
 nodux_product/config/docs.py
 nodux_product/nodux_product/__init__.py
+nodux_product/nodux_product/custom/item.json
 nodux_product/product/__init__.py
 nodux_product/product/item.js
 nodux_product/product/item.py
